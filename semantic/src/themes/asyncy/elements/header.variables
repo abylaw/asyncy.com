@@ -1,4 +1,0 @@
-@h1SubHeaderFontSize: 30px;
-@subHeaderColor: @white;
-
-@largeSubHeaderFontSize: 14px;
