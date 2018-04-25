@@ -6,6 +6,11 @@ a {
   color: white;
 }
 
+a:hover {
+  color: #B7B8C1;
+  transition: 0.16s;
+}
+
 button {
   font-size: 0.8em;
   color: white;
@@ -73,14 +78,20 @@ subtitle {
 button.primary {
   color:white;
   background-color: #515CF9;
-  height: 47px;
+  height: 48px;
   padding: 3px 32px;
   text-align: center;
-  font-size: 0.8em;
+  font-size: 0.83em;
   font-weight: 600;
   line-height: 38px;
 
 }
+
+button:hover
+{
+  background-color: #000000;
+}
+
 
 button.secondary {
   color:black;
